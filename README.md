@@ -1,6 +1,6 @@
 # Title
 
-This is an example file with default selections.
+整合船舶尺寸與座標估算、船名OCR識別以及特徵比對的綜合分析
 
 ## Install
 
@@ -10,12 +10,6 @@ This is an example file with default selections.
 ## Usage
 
 ```
+pip install requirement.txt
 ```
 
-## Contributing
-
-PRs accepted.
-
-## License
-
-MIT © Richard McRichface
