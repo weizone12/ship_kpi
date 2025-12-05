@@ -12,7 +12,7 @@ pip install requirement.txt
 
 **ship_feature**
 
-experiment.py -> 實驗程式碼
+* experiment.py -> 實驗程式碼
 
 main.py -> 船舶外觀特徵提取＆比對
 
