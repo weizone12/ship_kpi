@@ -1,0 +1,10 @@
+﻿Exp1_Model_OSNet,osnet_x1_0,cosine,0.6,57.01,2170021,4,2,2,0.6399
+Exp1_Model_ResNet,resnet50,cosine,0.6,32.49,23510081,4,2,2,0.7294
+Exp2_Metric_Cosine,osnet_x1_0,cosine,0.6,25.61,2170021,4,2,2,0.6399
+Exp2_Metric_Euclidean,osnet_x1_0,euclidean,20.0,17.34,2170021,4,2,1,23.2028
+Exp3_Threshold,osnet_x1_0,cosine,0.4,17.58,2170021,4,2,2,0.6399
+Exp3_Threshold,osnet_x1_0,cosine,0.5,17.58,2170021,4,2,2,0.6399
+Exp3_Threshold,osnet_x1_0,cosine,0.6,17.58,2170021,4,2,2,0.6399
+Exp3_Threshold,osnet_x1_0,cosine,0.7,17.58,2170021,4,2,2,0.6399
+Exp3_Threshold,osnet_x1_0,cosine,0.8,17.58,2170021,4,2,1,0.6399
+Exp3_Threshold,osnet_x1_0,cosine,0.9,17.58,2170021,4,2,1,0.6399

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-11-25 07:43:37",
+  "MMSI": 994163300,
+  "type": 21,
+  "data": {
+    "msg_type": 21,
+    "repeat": 1,
+    "mmsi": 994163300,
+    "aid_type": 5,
+    "name": "IN SECT",
+    "accuracy": false,
+    "lon": 120.511832,
+    "lat": 24.287094,
+    "to_bow": 45,
+    "to_stern": 45,
+    "to_port": 0,
+    "to_starboard": 0,
+    "epfd": 0,
+    "second": 60,
+    "off_position": false,
+    "reserved_1": 0,
+    "raim": false,
+    "virtual_aid": true,
+    "assigned": false,
+    "name_ext": null,
+    "len":null,
+    "width":null
+  },
+  "pos":{
+    "x": 135,
+    "y": 582
+  }
+}

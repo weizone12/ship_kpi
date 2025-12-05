@@ -1,0 +1,18 @@
+1-43
+    camera_lat: 24.29
+    camera_lon: 120.51722
+    camera_hFov: 22.1
+    camera_vFov: 12.9
+    camera_heading: 273  
+    camera_width: 1920
+    camera_height: 1080
+    攝影機高度:37.2
+47-75
+    camera_lat: 24.29
+    camera_lon: 120.51722
+    camera_hFov: 59.8 
+    camera_vFov: 34.8
+    camera_heading: 204 
+    camera_width: 1920
+    camera_height: 1080
+    攝影機高度:37.2

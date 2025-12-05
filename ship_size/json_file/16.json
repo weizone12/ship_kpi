@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-11-24 15:00:01",
+  "MMSI": 416005898,
+  "type": 3,
+  "data": {
+    "msg_type": 3,
+    "repeat": 0,
+    "mmsi": 416005898,
+    "status": 8,
+    "turn": 0.0,
+    "speed": 12.6,
+    "accuracy": true,
+    "lon": 120.499815,
+    "lat": 24.291795,
+    "course": 92.0,
+    "heading": 86,
+    "second": 0,
+    "maneuver": 0,
+    "raim": true,
+    "radio": 3904,
+    "len":27,
+    "width":8
+  },
+  "pos":{
+    "x": 1047,
+    "y":  533
+  }
+}
