@@ -5,11 +5,13 @@
 ## Install
 
 ```
+pip install requirement.txt
 ```
 
 ## Usage
 
 ```
-pip install requirement.txt
+**ship_size**
+experiment.py -> 實驗程式碼
 ```
 
